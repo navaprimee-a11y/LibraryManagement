@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.vite/
+.env*
+
+# Runtime database contains locally registered member data.
+server/db.json
